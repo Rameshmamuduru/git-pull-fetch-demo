@@ -1,2 +1,3 @@
 Hello World
 Feature change
+this is text from file called file.txt
