@@ -1,3 +1,4 @@
 Hello World
 Feature change
 this is text from file called file.txt
+once more line from file
